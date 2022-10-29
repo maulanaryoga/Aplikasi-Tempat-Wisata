@@ -1,16 +1,5 @@
-# waduk_undip
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Aplikasi Tempat Wisata Waduk UNDIP
+Maulana Arya Yoga J.
+IK2D / 3.34.21.3.14
+# Pertemuan ke-8
+![alt text](https://user-images.githubusercontent.com/116637724/198814157-a5f5cde4-b8d0-4514-a267-83c27e4f0a67.jpeg)
