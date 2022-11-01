@@ -1,4 +1,4 @@
-# Aplikasi Tempat Wisata Waduk UNDIP
+# Wisata Waduk UNDIP
 Maulana Arya Yoga J.
 IK2D / 3.34.21.3.14
 # Pertemuan ke-8
